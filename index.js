@@ -14,12 +14,12 @@ function johnLennonFacts(arr) {
   return exclaim
 }
 
-iLoveTheBeatles(num) {
+function iLoveTheBeatles(num) {
   let arr = [];
   let i = 0
   do {
     arr.push("I love the Beatles");
-    i++
+    i++;
   } 
   while (i < 15);
   return arr;
