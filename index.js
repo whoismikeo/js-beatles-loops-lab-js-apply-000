@@ -20,7 +20,7 @@ function iLoveTheBeatles(num) {
   let start = 0
   do {
     arr.push("I love the Beatles");
-    i++;
+    start++;
   } 
   while (start < end);
   return arr;
