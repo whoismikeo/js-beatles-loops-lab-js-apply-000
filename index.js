@@ -10,7 +10,6 @@ function theBeatlesPlay(musicians, instruments) {
 }
 
 function johnLennonFacts(arr) {
-  let length = arr.length;
-  
-  while (length )
+  let exclaim = arr.map(el => el + '!!!');
+  return exclaim
 }
