@@ -17,7 +17,7 @@ function johnLennonFacts(arr) {
 function iLoveTheBeatles(num) {
   let arr = [];
   let end = num - 15
-  let start = 1
+  let start = num
   do {
     arr.push("I love the Beatles!");
     start++;
