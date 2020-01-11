@@ -13,3 +13,8 @@ function johnLennonFacts(arr) {
   let exclaim = arr.map(el => el + '!!!');
   return exclaim
 }
+
+iLoveTheBeatles(num) {
+  let arr = [];
+  
+}
